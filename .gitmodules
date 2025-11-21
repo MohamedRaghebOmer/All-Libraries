@@ -4,3 +4,6 @@
 [submodule "Utility-Library"]
 	path = Utility-Library
 	url = https://github.com/MohamedRaghebOmer/Utility-Library.git
+[submodule "Date-Library"]
+	path = Date-Library
+	url = https://github.com/MohamedRaghebOmer/Date-Library.git
