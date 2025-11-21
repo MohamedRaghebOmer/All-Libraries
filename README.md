@@ -154,7 +154,7 @@ These libraries are written for native C++ (MSVC). Follow these steps to use the
 
 ---
 
-## Repository structure (suggested)
+## Repository structure
 
 ```
 All-Libraries/
