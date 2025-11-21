@@ -1,3 +1,6 @@
 [submodule "Input And Validate Library"]
 	path = Input And Validate Library
 	url = https://github.com/MohamedRaghebOmer/Input-and-Validate-Library.git
+[submodule "Utility-Library"]
+	path = Utility-Library
+	url = https://github.com/MohamedRaghebOmer/Utility-Library.git
