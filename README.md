@@ -165,7 +165,6 @@ All-Libraries/
 │  ├─ clsDate.h
 │  ├─ clsString.h
 |  ├─ clsUtil.h
-│  └─ Global.h
 └─ samples/
    ├─ example_date.cpp
    ├─ example_string.cpp
