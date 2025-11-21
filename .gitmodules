@@ -7,3 +7,6 @@
 [submodule "Date-Library"]
 	path = Date-Library
 	url = https://github.com/MohamedRaghebOmer/Date-Library.git
+[submodule "String-Library"]
+	path = String-Library
+	url = https://github.com/MohamedRaghebOmer/String-Library.git
