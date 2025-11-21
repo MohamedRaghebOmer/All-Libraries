@@ -161,10 +161,10 @@ All-Libraries/
 ├─ README.md
 ├─ LICENSE
 ├─ include/
+│  ├─ clsInputValidate.h
 │  ├─ clsDate.h
 │  ├─ clsString.h
-│  ├─ clsPeriod.h
-│  ├─ clsInputValidate.h
+|  ├─ clsUtil.h
 │  └─ Global.h
 └─ samples/
    ├─ example_date.cpp
